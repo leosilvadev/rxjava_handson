@@ -1,7 +1,7 @@
 package com.github.leosilvadev.rxjava.exercise1.services;
 
+import com.github.leosilvadev.rxjava.exercise1.Delay;
 import com.github.leosilvadev.rxjava.exercise1.domains.User;
-import com.github.leosilvadev.rxjava.util.Delay;
 
 import java.util.concurrent.LinkedBlockingDeque;
 import java.util.function.Consumer;

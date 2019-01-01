@@ -1,7 +1,7 @@
 package com.github.leosilvadev.rxjava.exercise1.services;
 
+import com.github.leosilvadev.rxjava.exercise1.Delay;
 import com.github.leosilvadev.rxjava.exercise1.domains.Product;
-import com.github.leosilvadev.rxjava.util.Delay;
 
 import java.math.BigDecimal;
 import java.util.concurrent.LinkedBlockingDeque;
